@@ -7,10 +7,7 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
 
 /**
- * Entry class for Benefit Schedule component 
- * 
- * @author Copernicus Team
- * @since FAS-9527
+ * Entry class for PremiumCalculatorApplication
  *
  */
 
